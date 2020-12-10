@@ -1,16 +1,30 @@
-### Hi there 👋
+```bash
+fazilaltinel@github:~$ whoami      
+       ____   __   ____   __   __         
+      (  __) / _\ (__  ) (  ) (  )        
+       ) _) /    \ / _/   )(  / (_/\      
+      (__)  \_/\_/(____) (__) \____/      
+  __   __    ____   __   __ _  ____  __   
+ / _\ (  )  (_  _) (  ) (  ( \(  __)(  )  
+/    \/ (_/\  )(    )(  /    / ) _) / (_/\
+\_/\_/\____/ (__)  (__) \_)__)(____)\____/
 
-<!--
-**fazilaltinel/fazilaltinel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+fazilaltinel@github:~$ cd /home/fazil/
+fazilaltinel@github:~$ cat fazilaltinel.txt
+Computer Vision Research Engineer
+(Ankara, Turkey)
 
-Here are some ideas to get you started:
+fazilaltinel@github:~$ ls --human-readable -l research/topics/
+Computer Vision and Deep Learning
+├── Deep structured energy-based models
+├── Image inpainting
+└── Domain adaptation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+fazilaltinel@github:~$ python education.py --all
+BS, Computer Engineering, Yildiz Technical University (2010 - 2015 | Istanbul, Turkey)
+MSc, Graduate School of Information Sciences, Tohoku University (2016 - 2018 | Sendai, Japan)
+
+fazilaltinel@github:~$ shutdown -h now
+```
+
+<!--- ASCII graphic was generated using http://patorjk.com/software/taag/ --->
